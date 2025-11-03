@@ -1,6 +1,13 @@
 <Solution>
-  <Project Path="ejercicio002/ejercicio002.csproj" Id="8c016bb2-0391-417f-bc9e-1ebc8db4640e" />
-  <Project Path="ejercicio003/ejercicio003.csproj" Id="ee669cac-46e7-4121-87a0-4d976aa4e866" />
-  <Project Path="Ejercicio004/Ejercicio004.csproj" Id="d561c5b5-29b4-4a2b-b70e-3aa005c05c60" />
-  <Project Path="ejercicio1/ejercicio1.csproj" Id="76ce073e-f315-434a-bed3-65637d419dd9" />
+  <Folder Name="/1 - Pasos para crear un sitio web/">
+    <Project Path="ejercicio002/ejercicio002.csproj" Id="8c016bb2-0391-417f-bc9e-1ebc8db4640e" />
+    <Project Path="ejercicio003/ejercicio003.csproj" Id="ee669cac-46e7-4121-87a0-4d976aa4e866" />
+    <Project Path="Ejercicio004/Ejercicio004.csproj" Id="d561c5b5-29b4-4a2b-b70e-3aa005c05c60" />
+    <Project Path="ejercicio005/ejercicio005.csproj" Id="762f8125-a2d7-4e87-b99d-622d36484f4a" />
+    <Project Path="ejercicio006/ejercicio006.csproj" Id="2de69d96-4736-495f-85df-aa93cccf3c61" />
+    <Project Path="ejercicio1/ejercicio1.csproj" Id="76ce073e-f315-434a-bed3-65637d419dd9" />
+    <Project Path="ejercicios 007/ejercicios 007.csproj" Id="b10425f8-2ccb-4739-b741-0e7d732662e6" />
+    <Project Path="problema1/problema1.csproj" Id="ea48e3c2-874c-4c47-b30f-1304e92be34d" />
+  </Folder>
+  <Folder Name="/2 - Creacion, lectura y escritura/" />
 </Solution>
