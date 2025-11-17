@@ -10,8 +10,18 @@
     <Project Path="ejercicios 007/ejercicio007.csproj" Id="b10425f8-2ccb-4739-b741-0e7d732662e6" />
   </Folder>
   <Folder Name="/1 - Pasos para crear un sitio web/Problema/">
+    <Project Path="Formulario/Formulario.csproj" Id="1395e2a6-cd04-43dc-8198-007a4987243f" />
     <Project Path="problema1/problema1.csproj" Id="ea48e3c2-874c-4c47-b30f-1304e92be34d" />
     <Project Path="Problema2/Problema2.csproj" Id="1cc448c9-ac72-40b5-ba22-7e88c9c21c8d" />
+    <Project Path="Problema3/Problema3.csproj" Id="9e82a7ec-fe10-4662-bf1b-a26aaddb739f" />
   </Folder>
   <Folder Name="/2 - Creacion, lectura y escritura/" />
+  <Folder Name="/2 - Creacion, lectura y escritura/Ejercicio/">
+    <Project Path="DatosCurriculum/DatosCurriculum.csproj" Id="20ed7e48-bca6-43dc-a155-68e8497aca7e" />
+  </Folder>
+  <Folder Name="/2 - Creacion, lectura y escritura/Problema/">
+    <Project Path="AgendaActividades/AgendaActividades.csproj" Id="7372ce2f-4826-4858-8ee6-5fd3835ae7f5" />
+    <Project Path="ContadorPagina/ContadorPagina.csproj" Id="0d11c287-cadd-4e9f-8995-9ce6c0bef9a1" />
+    <Project Path="problema8/problema8.csproj" Id="cab7f82a-0cdb-4dfa-906d-1ee5459b8b99" />
+  </Folder>
 </Solution>
