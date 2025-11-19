@@ -17,10 +17,14 @@ namespace DatosCurriculum
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            if(File.Exists(Server.MapPath(".") + "/" + string.Concat(txtNombre.Text, txtApellido.Text)))
-            {
-
-            }
+            StreamWriter arch = new StreamWriter(Server.MapPath(".") + $"/{txtNombre.Text}.txt", true);
+            arch.WriteLine("Nombre:" + txtNombre.Text);
+            arch.WriteLine("</br>");
+            arch.WriteLine("Apellido:" + txtApellido.Text);
+            arch.WriteLine("</br>");
+            arch.WriteLine("Habilidades:" + txtHabilidades.Text);
+            arch.Close();
+            lblResultado.Text = "Datos Registrados Correctamente";
         }
     }
 }

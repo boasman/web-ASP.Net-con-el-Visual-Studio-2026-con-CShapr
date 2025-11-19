@@ -24,4 +24,7 @@
     <Project Path="ContadorPagina/ContadorPagina.csproj" Id="0d11c287-cadd-4e9f-8995-9ce6c0bef9a1" />
     <Project Path="problema8/problema8.csproj" Id="cab7f82a-0cdb-4dfa-906d-1ee5459b8b99" />
   </Folder>
+  <Folder Name="/3 - Clases Sqlconnection y SqlCommand (ABM)/">
+    <Project Path="ABMUsuario/ABMUsuario.csproj" Id="0dc4ce95-5553-43f5-b41a-6fc037d74395" />
+  </Folder>
 </Solution>
